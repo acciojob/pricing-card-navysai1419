@@ -1,1 +1,42 @@
 /*  your css code here. If applicable */
+/* Styles for the card */
+.card {
+    width: 300px; /* Adjust the width as needed */
+    padding: 20px; /* Adjust the padding as needed */
+    background-color: #f0f0f0; /* Adjust the background color as needed */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a box-shadow for a card effect */
+    text-align: center; /* Center the card content */
+}
+
+/* Styles for the card image */
+.card-image {
+    width: 100%; /* Adjust the image width as needed */
+}
+
+/* Styles for the card title (H1) */
+.card-title {
+    font-size: 24px; /* Adjust the font size as needed */
+     /* Add spacing as needed */
+}
+
+/* Styles for the pricing information (paragraph) */
+.pricing-info {
+    font-size: 18px; /* Adjust the font size as needed */
+    color:black; /* Adjust the text color as needed */
+ /* Add spacing as needed */
+}
+
+/* Styles for the product description (paragraph) */
+.description {
+    margin: 10px 0; /* Add spacing as needed */
+}
+
+/* Styles for the "Buy Now" button */
+.buy-now-button {
+    padding: 10px 20px; /* Adjust the padding as needed */
+    background-color: red; /* Adjust the background color as needed */
+    color: #fff; /* Adjust the text color as needed */
+    border: none;
+    border-radius: 5px; /* Add a border-radius for rounded corners */
+    cursor: pointer;
+}
